@@ -32,7 +32,10 @@ By the end of this course, participants will be able to: ERASE OTHER OUTCOMES NO
 4. Apply deep learning models, including tools such as AlphaFold, to analyze complex biological research problems.
     
 5. Deliver AI contents with best teaching/learning practices in biological research.
-   
+
+## Materials and tutorials
+
+LINKS 
 
 ## Citing and Re-using Course Material
 The course data are free to reuse and adapt with appropriate attribution. All course data in these repositories are licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Creative Commons Licence
