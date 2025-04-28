@@ -19,7 +19,12 @@ Flavio E. Spetale, PhD. Ing., CIFASIS – CONICET/UNR, Argentina
 By the end of this course, participants will be able to: 
 
 3. Build and evaluate classification models to address biological questions in the LATAM context.
-    
+
+
+## Materials and tutorials
+
+LINKS 
+
 ## Citing and Re-using Course Material
 The course data are free to reuse and adapt with appropriate attribution. All course data in these repositories are licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Creative Commons Licence
 
