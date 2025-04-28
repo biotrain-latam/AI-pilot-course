@@ -16,6 +16,7 @@ Kim Gurwitz - EMBL-EBI, Project manager
 
 Cindy Aguilar Bartels - University of Costa Rica, Project manager
 
+
 ### BiotrAIn community
 Carla Valeria Filippi, Facultad de Agronomia, Universidad de la República, Uruguay
 
