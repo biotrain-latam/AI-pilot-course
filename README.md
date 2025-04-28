@@ -40,7 +40,7 @@ Tulio Campos, Oswaldo Cruz Foundation (Fiocruz), Brazil
 ## Learning outcomes
 By the end of this course, participants will be able to apply foundational concepts of artificial intelligence and machine learning to biological data, including situations in the LATAM context, leveraging their existing data analysis skills to:
 
-1. Identify appropriate AI concepts and techniques, ethical aspects, and general usability of AI in bioscience.
+1. Identify appropriate AI concepts and techniques, ethical aspects, and general usability of AI in bioscience. 
 
 2. Preprocess and analyze biological datasets using clustering algorithms, including regional databases (LATAM).
     
