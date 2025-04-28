@@ -11,15 +11,15 @@ Our intended impact is that Latin America is able to participate as an equal par
 
 ### Core team
 
-Cath Brooksbank - EMBL-EBI, Principal Investigator
+Cath Brooksbank - EMBL-EBI, Principal Investigator, UK
 
-Jose Arturo Molina Mora - University of Costa Rica, Co-Investigator, lead for LATAM
+Jose Arturo Molina Mora - University of Costa Rica, Co-Investigator, lead for LATAM, Costa Rica
 
-Rebeca Campos Sáchez - University of Costa Rica, Co-Investigator, CABANAnet
+Rebeca Campos Sáchez - University of Costa Rica, Co-Investigator, CABANAnet, Costa Rica
 
-Kim Gurwitz - EMBL-EBI, Project manager
+Kim Gurwitz - EMBL-EBI, Project manager, UK
 
-Cindy Aguilar Bartels - University of Costa Rica, Project manager
+Cindy Aguilar Bartels - University of Costa Rica, Project manager, Costa Rica
 
 
 ### BiotrAIn community
