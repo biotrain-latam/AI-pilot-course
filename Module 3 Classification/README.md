@@ -23,7 +23,10 @@ By the end of this course, participants will be able to:
 
 ## Materials and tutorials
 
-[Tutorial general](https://colab.research.google.com/drive/1_Ih0wINPTEtW8ckMOmhTB_7wnXbw0X7W)
+### General pipeline
+[Tutorial in R: Concepts of classification](https://colab.research.google.com/drive/1_Ih0wINPTEtW8ckMOmhTB_7wnXbw0X7W)
+
+[Publication: A first perturbome of Pseudomonas aeruginosa: Identification of core genes related to multiple perturbations by a machine learning approach](https://www.sciencedirect.com/science/article/pii/S0303264721000666?via%3Dihub)
 
 ## Citing and Re-using Course Material
 The course data are free to reuse and adapt with appropriate attribution. All course data in these repositories are licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Creative Commons Licence
