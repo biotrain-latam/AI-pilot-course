@@ -10,17 +10,17 @@ xxxxxxxxxxxxxxxx
 
 ### Collaborators
 
-Example: Carla Valeria Filippi, Facultad de Agronomia, Universidad de la República, Uruguay
-
+Example: Nelly Sélem, Centro de Ciencias Matemáticas UNAM, México
 Jose Arturo Molina Mora - University of Costa Rica, Co-Investigator, lead for LATAM, Costa Rica
 
 xxx
 
 ### Secondee
 
-xxxxx
+Jeanett Daga
 
 ## Learning outcomes
+
 By the end of this course, participants will be able to: ERASE OTHER OUTCOMES NOT CORRESPONDING TO YOUR MODULE
 
 1. Identify appropriate AI concepts and techniques, ethical aspects, and general usability of AI in bioscience. 
