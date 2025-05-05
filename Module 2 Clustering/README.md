@@ -6,14 +6,14 @@
 
 ## Module #: Clustering
 
-xxxxxxxxxxxxxxxx
+
 
 ### Collaborators
 
-Example: Nelly Sélem, Centro de Ciencias Matemáticas UNAM, México
+Example: Nelly Sélem, Researcher Centro de Ciencias Matemáticas UNAM, México
 Victor Muñiz and Lilia Leticia Ramírez CIMAT Gto
-David CINVESTAV México
-xxx
+David Alberto García Estrada Ph.D. Student CINVESTAV México
+
 
 ### Secondee
 
