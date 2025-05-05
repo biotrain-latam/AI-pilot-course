@@ -4,15 +4,15 @@
 
 ### Pilot Course: June 16-20, 2025 - San José, Costa Rica
 
-## Module #: Name
+## Module #: Clustering
 
 xxxxxxxxxxxxxxxx
 
 ### Collaborators
 
 Example: Nelly Sélem, Centro de Ciencias Matemáticas UNAM, México
-Jose Arturo Molina Mora - University of Costa Rica, Co-Investigator, lead for LATAM, Costa Rica
-
+Victor Muñiz and Lilia Leticia Ramírez CIMAT Gto
+David CINVESTAV México
 xxx
 
 ### Secondee
