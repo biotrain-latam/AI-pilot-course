@@ -28,6 +28,10 @@ By the end of this course, participants will be able to:
 
 [Publication: A first perturbome of Pseudomonas aeruginosa: Identification of core genes related to multiple perturbations by a machine learning approach](https://www.sciencedirect.com/science/article/pii/S0303264721000666?via%3Dihub)
 
+[Application 1: GO classification](https://colab.research.google.com/drive/1t4UZeBoU9joe_Q70lRPX4WyPGf2zj8H_#scrollTo=JnPNlsMNrJks)
+
+[Publication: Consistent prediction of GO protein localization](https://www.nature.com/articles/s41598-018-26041-z)
+
 ## Citing and Re-using Course Material
 The course data are free to reuse and adapt with appropriate attribution. All course data in these repositories are licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Creative Commons Licence
 
