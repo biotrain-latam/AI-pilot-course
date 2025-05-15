@@ -4,34 +4,31 @@
 
 ### Pilot Course: June 16-20, 2025 - San José, Costa Rica
 
-## Module #: Name
-
-xxxxxxxxxxxxxxxx
+## Module #: Deep Learning applications
 
 ### Collaborators
-
-Example: Carla Valeria Filippi, Facultad de Agronomia, Universidad de la República, Uruguay
-
-Jose Arturo Molina Mora - University of Costa Rica, Co-Investigator, lead for LATAM, Costa Rica
-
-xxx
+Tulio Campos, Oswaldo Cruz Foundation (Fiocruz), Brazil
 
 ### Secondee
 
-xxxxx
-
+Daniel Farfán, Universidad de Guadalajara, México
 ## Learning outcomes
-By the end of this course, participants will be able to: ERASE OTHER OUTCOMES NOT CORRESPONDING TO YOUR MODULE
+By the end of this course, participants will be able to: 
 
-1. Identify appropriate AI concepts and techniques, ethical aspects, and general usability of AI in bioscience. 
+- **Explain** the theoretical foundations of deep learning and its relationship with artificial intelligence and machine learning.
 
-2. Preprocess and analyze biological datasets using clustering algorithms, including regional databases (LATAM).
-    
-3. Build and evaluate classification models to address biological questions in the LATAM context.
-    
-4. Apply deep learning models, including tools such as AlphaFold, to analyze complex biological research problems.
-    
-5. Deliver AI contents with best teaching/learning practices in biological research.
+- **Identify and compare** the main learning paradigms (supervised, unsupervised, semi-supervised, reinforcement learning) and their applications in biology.
+
+- **Understand** the internal functioning of deep neural networks, including training, optimization, and evaluation processes.
+
+- **Recognize and select** appropriate neural network architectures for different types of biological data.
+
+- **Implement and train** deep learning models for specific biological tasks using PyTorch and Transformers (Hugging Face).
+
+- **Evaluate** deep learning models using appropriate performance metrics and analyze the results to improve model performance.
+
+- **Apply** best practices for reproducibility and interpretability in AI-driven biological research projects.
+
    
 ## Materials and tutorials
 
