@@ -4,7 +4,7 @@
 
 ### Pilot Course: June 16-20, 2025 - San José, Costa Rica
 
-## Module #: Deep Learning applications
+## Module 4: Deep Learning applications
 
 ### Collaborators
 Tulio Campos, Oswaldo Cruz Foundation (Fiocruz), Brazil
