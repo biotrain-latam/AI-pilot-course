@@ -33,14 +33,14 @@ By the end of this course, participants will be able to: ERASE OTHER OUTCOMES NO
     
 5. Deliver AI contents with best teaching/learning practices in biological research.
    
-## Materials and tutorials
+## Materials and tutorials  
 
-[Notebook 1 Dataset](https://drive.google.com/drive/folders/1_OF-Iw59qbjTbVXL0y7qpYG865ecEc4-) 
-[Notebook 2 Beta diversity](https://colab.research.google.com/drive/1jCfIIXHeYYN_X78k9yY7Dgsa4e9uSaf3) 
-[Notebook 3 Dimentional Reduction](https://colab.research.google.com/drive/1h7PQhuDl-GZ3a4JTz4-k0Ybk2KfOcb_A) 
-[Notebook 4 Clustering](https://colab.research.google.com/drive/1kyajpzd1y08Ly5YIJNCrexA9RR756X6g) 
-[Notebook 5 Clustering evaluation](https://drive.google.com/drive/folders/1_OF-Iw59qbjTbVXL0y7qpYG865ecEc4-) 
-[Notebook 6 Otherdatase](https://colab.research.google.com/drive/1tvQkMGaGtaPnfAOL0R7osTLyP260ZX4z) 
+[Notebook 1 Dataset](https://drive.google.com/drive/folders/1_OF-Iw59qbjTbVXL0y7qpYG865ecEc4-)   
+[Notebook 2 Beta diversity](https://colab.research.google.com/drive/1jCfIIXHeYYN_X78k9yY7Dgsa4e9uSaf3)   
+[Notebook 3 Dimentional Reduction](https://colab.research.google.com/drive/1h7PQhuDl-GZ3a4JTz4-k0Ybk2KfOcb_A)   
+[Notebook 4 Clustering](https://colab.research.google.com/drive/1kyajpzd1y08Ly5YIJNCrexA9RR756X6g)   
+[Notebook 5 Clustering evaluation](https://drive.google.com/drive/folders/1_OF-Iw59qbjTbVXL0y7qpYG865ecEc4-)   
+[Notebook 6 Otherdatase](https://colab.research.google.com/drive/1tvQkMGaGtaPnfAOL0R7osTLyP260ZX4z)   
 
 
 ## Citing and Re-using Course Material
