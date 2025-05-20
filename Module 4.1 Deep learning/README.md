@@ -32,9 +32,12 @@ By the end of this course, participants will be able to:
    
 ## Materials and tutorials
 [*Introduction slides*](https://alumnosudgmx-my.sharepoint.com/:p:/g/personal/mdaniel_rodriguez_alumnos_udg_mx/EQBFxQ_0L-JOj1Stv0fETC4B0DeyK3SBsutzGvMWpla1KA?e=4loJ0I):Establish a foundational understanding of Deep Learning, including its place within the broader field of Artificial Intelligence, the main learning paradigms, and widely-used development frameworks.
+<br>
 [*How Deep Learning works slides*](https://alumnosudgmx-my.sharepoint.com/:p:/g/personal/mdaniel_rodriguez_alumnos_udg_mx/EW1FUyUdfQ5AhWh8rILmP8IBt4a6IinKXuE-hZfeXXnQpA?e=Nyzjc9):Explain how deep learning models function, including key components of training, optimization, evaluation, and common challenges.
+<br>
 [*Case 1:*](https://colab.research.google.com/drive/1m3dITTWmBAjJtKwxn04C4ZyKcNzRGr0P?usp=sharing): build and train a neural network to predict the solubility of chemical compounds
 using molecular descriptors from the ESOL dataset.
+<br>
 ## Citing and Re-using Course Material
 The course data are free to reuse and adapt with appropriate attribution. All course data in these repositories are licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Creative Commons Licence
 
