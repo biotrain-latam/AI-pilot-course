@@ -10,11 +10,11 @@ xxxxxxxxxxxxxxxx
 
 ### Collaborators
 
-Example: Carla Valeria Filippi, Facultad de Agronomia, Universidad de la República, Uruguay
+Carla Valeria Filippi, Facultad de Agronomia, Universidad de la República, Uruguay
 
 Jose Arturo Molina Mora - University of Costa Rica, Co-Investigator, lead for LATAM, Costa Rica
 
-xxx
+María Inés Fariello, Facultad de Ineniería, Universidad de la República
 
 ### Secondee
 
