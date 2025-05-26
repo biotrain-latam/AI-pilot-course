@@ -4,7 +4,7 @@
 
 ### Pilot Course: June 16-20, 2025 - San José, Costa Rica
 
-## Module 4.2: Name
+## Module 4.2: Deep Learning: application protein structure prediction with Alphafold.
 
 
 
@@ -33,6 +33,12 @@ By the end of this course, participants will be able to:
    
 ## Materials and tutorials
 
+**Before the course:** Install and learn how to use PyMOL.
+
+Go to [https://www.pymol.org/](https://www.pymol.org/), click the **Download** button, and choose **PyMOL 3.1** and the version corresponding to your operating system.
+Then, to obtain a license, go to [https://pymol.org/edu/](https://pymol.org/edu/) and fill out the form. You will receive an email with information on how to download the license.
+Run PyMOL and follow the instructions to load the license.
+Then complete the tutorial at [https://pymolwiki.org/index.php/Biochemistry\_student\_intro](https://pymolwiki.org/index.php/Biochemistry_student_intro) to become familiar with PyMOL. Follow the instructions up to the section titled **“The Faster Way.”**
 
 
 ## Citing and Re-using Course Material
