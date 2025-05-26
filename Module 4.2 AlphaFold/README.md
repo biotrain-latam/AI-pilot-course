@@ -4,7 +4,7 @@
 
 ### Pilot Course: June 16-20, 2025 - San José, Costa Rica
 
-## Module 4.2: Deep Learning: application protein structure prediction with Alphafold.
+## Module 4.2: Deep Learning: application to protein structure prediction with Alphafold.
 
 
 
