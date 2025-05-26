@@ -4,21 +4,19 @@
 
 ### Pilot Course: June 16-20, 2025 - San José, Costa Rica
 
-## Module #: Name
+## Module 4.2: Name
 
-xxxxxxxxxxxxxxxx
+
 
 ### Collaborators
 
-Adrian Turjanski, Facultad de Agronomia, Universidad de la República, Uruguay
+Adrian Turjanski - Full Professor, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina
 
-Jose Arturo Molina Mora - University of Costa Rica, Co-Investigator, lead for LATAM, Costa Rica
-
-xxx
+Lucas Gabriel Garcia - PhD Student, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina
 
 ### Secondee
 
-xxxxx
+Stephany Valdeiglesias Ichillumpa - 
 
 ## Learning outcomes
 By the end of this course, participants will be able to: ERASE OTHER OUTCOMES NOT CORRESPONDING TO YOUR MODULE
