@@ -16,24 +16,24 @@ Lucas Gabriel Garcia - PhD Student, Facultad de Ciencias Exactas y Naturales, Un
 
 ### Secondee
 
-Stephany Valdeiglesias Ichillumpa - 
+Stephany Valdeiglesias Ichillumpa - Master Student, Universidad Nacional Toribio Rodríguez de Mendoza, Chachapoyas, Peru.
 
 ## Learning outcomes
-By the end of this course, participants will be able to: ERASE OTHER OUTCOMES NOT CORRESPONDING TO YOUR MODULE
+By the end of this course, participants will be able to: 
 
-1. Identify appropriate AI concepts and techniques, ethical aspects, and general usability of AI in bioscience. 
+1. Identify appropriate AI concepts and techniques, and general usability of AI in bioscience. 
 
-2. Preprocess and analyze biological datasets using clustering algorithms, including regional databases (LATAM).
+2. Understand the problem of protein structural prediction, challenges and posible solutions with AI.
     
-3. Build and evaluate classification models to address biological questions in the LATAM context.
+3. Apply deep learning models, including tools such as AlphaFold, to analyze complex biological research problems.
     
-4. Apply deep learning models, including tools such as AlphaFold, to analyze complex biological research problems.
+4. Understand deep learning models as Aplhafold and its outcomes, learn how to evaluate algorithm results.  
     
 5. Deliver AI contents with best teaching/learning practices in biological research.
    
 ## Materials and tutorials
 
-LINKS 
+
 
 ## Citing and Re-using Course Material
 The course data are free to reuse and adapt with appropriate attribution. All course data in these repositories are licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Creative Commons Licence
