@@ -25,7 +25,7 @@ By the end of this course, participants will be able to:
 ### Theoretical classes and presentations
 [General Concepts in Classification](https://drive.google.com/file/d/1ODy8Hq2wa0Vs2zEBiM95SlUUgXI6oNdj/view?usp=sharing)
 
-[Fundamentals of Basic Algorithms in Classification](https://drive.google.com/file/d/1ODy8Hq2wa0Vs2zEBiM95SlUUgXI6oNdj/view?usp=sharing)
+[Fundamentals of Basic Algorithms in Classification](https://drive.google.com/file/d/1KIK-0VRibBvr6YY34KStMmU7taCUO30Y/view?usp=sharing)
 
 ### General pipeline
 [Tutorial in R: Concepts of classification](https://colab.research.google.com/drive/1_Ih0wINPTEtW8ckMOmhTB_7wnXbw0X7W)
