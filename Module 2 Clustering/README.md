@@ -23,15 +23,8 @@ Jeanett Daga
 
 By the end of this course, participants will be able to: ERASE OTHER OUTCOMES NOT CORRESPONDING TO YOUR MODULE
 
-1. Identify appropriate AI concepts and techniques, ethical aspects, and general usability of AI in bioscience. 
-
 2. Preprocess and analyze biological datasets using clustering algorithms, including regional databases (LATAM).
     
-3. Build and evaluate classification models to address biological questions in the LATAM context.
-    
-4. Apply deep learning models, including tools such as AlphaFold, to analyze complex biological research problems.
-    
-5. Deliver AI contents with best teaching/learning practices in biological research.
    
 ## Materials and tutorials  
 
