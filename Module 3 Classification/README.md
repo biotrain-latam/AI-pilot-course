@@ -10,7 +10,6 @@
 
 Jose Arturo Molina Mora - University of Costa Rica, Co-Investigator, lead for LATAM, Costa Rica
 
-Nelly Selem, National Autonomous University of México Center of Mathematical Sciences, México
 
 ### Secondee
 Flavio E. Spetale, PhD. Ing., CIFASIS – CONICET/UNR, Argentina
