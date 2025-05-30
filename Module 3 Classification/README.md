@@ -28,7 +28,7 @@ By the end of this course, participants will be able to:
 [Fundamentals of Basic Algorithms in Classification](https://drive.google.com/file/d/1KIK-0VRibBvr6YY34KStMmU7taCUO30Y/view?usp=sharing)
 
 ### General pipeline
-[Tutorial in R: Concepts of classification](https://colab.research.google.com/drive/1_jbMf1k8sOaavtGWsDnUYiVK89kPcrHe?usp=sharing)
+[Tutorial in R: Concepts of classification](https://github.com/biotrain-latam/BiotrAIn-pilot-course/blob/main/Module%203%20Classification/BiotrAIn_Clasification.ipynb)
 
 [Publication: A first perturbome of Pseudomonas aeruginosa: Identification of core genes related to multiple perturbations by a machine learning approach](https://www.sciencedirect.com/science/article/pii/S0303264721000666?via%3Dihub)
 
