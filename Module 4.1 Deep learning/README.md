@@ -35,8 +35,12 @@ By the end of this course, participants will be able to:
 <br>
 [*How Deep Learning works slides*](https://alumnosudgmx-my.sharepoint.com/:p:/g/personal/mdaniel_rodriguez_alumnos_udg_mx/EW1FUyUdfQ5AhWh8rILmP8IBt4a6IinKXuE-hZfeXXnQpA?e=Nyzjc9):Explain how deep learning models function, including key components of training, optimization, evaluation, and common challenges.
 <br>
+[*Deep Learning architectures*](https://alumnosudgmx-my.sharepoint.com/:p:/g/personal/mdaniel_rodriguez_alumnos_udg_mx/EYgsqv_vnfVOpjP9dkPqZbEBO9lhXiohe3fUz3OInIZylA?e=Bexfea):Introduce key neural network architectures used in biology, highlighting when and how to use each type.
+<br>
 [*Case 1:*](https://colab.research.google.com/drive/1m3dITTWmBAjJtKwxn04C4ZyKcNzRGr0P?usp=sharing): build and train a neural network to predict the solubility of chemical compounds
 using molecular descriptors from the ESOL dataset.
+<br>
+[*Case 2:*](https://colab.research.google.com/drive/1Yl6lq9mxe2iKFSV-yKwN_t_QOFsntCp6?usp=sharing):  fine-tune a pre-trained language model for DNA sequences (DNABERT-2) to classify COVID-19 variants.
 <br>
 ## Citing and Re-using Course Material
 The course data are free to reuse and adapt with appropriate attribution. All course data in these repositories are licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Creative Commons Licence
