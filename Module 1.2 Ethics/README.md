@@ -4,34 +4,36 @@
 
 ### Pilot Course: June 16-20, 2025 - San José, Costa Rica
 
-## Module #: Name
+## Module #: Responsible use of AI
 
-xxxxxxxxxxxxxxxx
+This module explores the ethical challenges, social impacts, and regulatory issues surrounding the development and use of Artificial Intelligence (AI).
+It aims to promote critical reflection on how AI technologies are designed, implemented, and governed across different contexts, with special attention to issues of fairness, transparency, accountability, privacy, and social justice.
+You will be introduced to real-world case studies, interdisciplinary debates, and national/international frameworks that guide responsible AI development.
 
 ### Collaborators
 
-Example: Carla Valeria Filippi, Facultad de Agronomia, Universidad de la República, Uruguay
+Maria Fernanda Ribeiro Dias, Professora visitante do PPGMCF da Universidade Federal do Rio de Janeiro, Brazil (secondee)
 
-Jose Arturo Molina Mora - University of Costa Rica, Co-Investigator, lead for LATAM, Costa Rica
+Cath Brooksbank - Head of Training, EMBL-EBI and PI of BiotrAIn, UK
 
-xxx
+Alex Bateman, Senior Team Leader, Protein Sequence Resources, EMBL-EBI, UK
 
-### Secondee
+Helder Nakaya, Principal Investigator, Computational Systems Biology Laboratory, University of Sao Paolo, Brazil
 
-xxxxx
+
 
 ## Learning outcomes
-By the end of this course, participants will be able to: ERASE OTHER OUTCOMES NOT CORRESPONDING TO YOUR MODULE
+By the end of this module, you will be able to: 
 
-1. Identify appropriate AI concepts and techniques, ethical aspects, and general usability of AI in bioscience. 
+1. Summarise the key ethical concepts and principles applied to AI systems. 
 
-2. Preprocess and analyze biological datasets using clustering algorithms, including regional databases (LATAM).
+2. Apply those concepts to specific examples of AI use in the life sciences.
     
-3. Build and evaluate classification models to address biological questions in the LATAM context.
+3. dentify potential risks, biases, and societal consequences of AI technologies.
     
 4. Apply deep learning models, including tools such as AlphaFold, to analyze complex biological research problems.
     
-5. Deliver AI contents with best teaching/learning practices in biological research.
+5. Summarise steps to use AI responsibly.
    
 ## Materials and tutorials
 
