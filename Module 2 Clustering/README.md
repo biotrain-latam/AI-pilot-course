@@ -21,7 +21,7 @@ Jeanett Daga
 
 ## Learning outcomes
 
-By the end of this course, participants will be able to: ERASE OTHER OUTCOMES NOT CORRESPONDING TO YOUR MODULE
+By the end of this course, participants will be able to: 
 
 2. Preprocess and analyze biological datasets using clustering algorithms, including regional databases (LATAM).
     
