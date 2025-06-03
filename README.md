@@ -56,7 +56,7 @@ By the end of this course, participants will be able to apply foundational conce
 More details at:  [EMBL-EBI](https://www.ebi.ac.uk/training/our-partnerships/biotrain)
 
 ## Citing and Re-using Course Material
-![image](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png = 25x)
+![image](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png=25x)
 The course data are free to reuse and adapt with appropriate attribution. All course data in these repositories are licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Creative Commons Licence
 
 Each course landing page is assigned a DOI via Zenodo, providing a stable and citable reference. These DOIs can be found on the respective course landing pages and can be included in CVs or research publications, offering a professional record of the course contributions.
