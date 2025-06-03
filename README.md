@@ -55,6 +55,5 @@ By the end of this course, participants will be able to apply foundational conce
 
 More details at:  [EMBL-EBI](https://www.ebi.ac.uk/training/our-partnerships/biotrain)
 
-## Citing and Re-using Course Material
-
-The course data are free to reuse and adapt with appropriate attribution. All course data in these repositories are licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). ![image](https://github.com/user-attachments/assets/33d0775f-902c-4a0c-8bbc-6a7c7947a132)
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
