@@ -8,11 +8,12 @@
 
 ### Collaborators
 
-Carla Valeria Filippi, Facultad de Agronomia, Universidad de la República, Uruguay
+Carla Valeria Filippi, Faculty of Agronomy, University of the Republic, Uruguay
+Jose Arturo Molina Mora - University of Costa Rica, Co-Investigator, lead for LATAM, Costa Rica
 
 ### Secondee
 
-Daniel Céspedes Tenorio, Facultad de Mirobiología, Universidad de Costa Rica, Costa Rica
+Daniel Céspedes Tenorio, Faculty of Myrobiology, University of Costa Rica, Costa Rica
 
 ## Learning outcomes
 By the end of this course, participants will be able to: ERASE OTHER OUTCOMES NOT CORRESPONDING TO YOUR MODULE
