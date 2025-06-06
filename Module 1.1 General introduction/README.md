@@ -17,7 +17,7 @@ Jose Arturo Molina Mora - University of Costa Rica, Co-Investigator, lead for LA
 Daniel Céspedes Tenorio, Faculty of Myrobiology, University of Costa Rica, Costa Rica
 
 ## Learning outcomes
-By the end of this course, participants will be able to: ERASE OTHER OUTCOMES NOT CORRESPONDING TO YOUR MODULE
+By the end of this course, participants will be able to:
 
 1. Identify appropriate AI concepts and techniques, ethical aspects, and general usability of AI in bioscience. 
 
