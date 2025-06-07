@@ -12,7 +12,7 @@ Train the trainer
 
 Carla Valeria Filippi, Facultad de Agronomia, Universidad de la República, Uruguay
 
-María Inés Fariello, Facultad de Ineniería, Universidad de la República
+María Inés Fariello, Facultad de Ingeniería, Universidad de la República
 
 ### Secondee
 
