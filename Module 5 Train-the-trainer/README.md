@@ -4,9 +4,9 @@
 
 ### Pilot Course: June 16-20, 2025 - San José, Costa Rica
 
-## Module #: Name
+## Module #5: 
 
-xxxxxxxxxxxxxxxx
+Train the trainer
 
 ### Collaborators
 
