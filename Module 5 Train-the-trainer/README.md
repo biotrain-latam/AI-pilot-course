@@ -8,9 +8,13 @@
 
 ### Collaborators
 
-Carla Valeria Filippi, Facultad de Agronomia, Universidad de la República, Uruguay
+Cath BrooksBank, EMBL-EBI, Principal Investigator
 
-María Inés Fariello, Facultad de Ingeniería, Universidad de la República
+Carla Valeria Filippi, Faculty of Agronomy, University of the Republic, Uruguay
+
+María Inés Fariello, Faculty of Engineering, University of the Republic
+
+Rebeca Campos, Faculty of Microbiology, Co-investigator, University of Costa Rica, Costa Rica 
 
 ### Secondee
 
