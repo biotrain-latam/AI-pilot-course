@@ -33,8 +33,6 @@ Presentations:
 
 General concepts of AI: https://docs.google.com/presentation/d/1rmr5TpPs8n1XI_mxNmUMen37h9-z0jym/edit?usp=sharing&ouid=103552997294835590141&rtpof=true&sd=true
 
-AI Readiness, Prerequisites and Global Framework: https://docs.google.com/presentation/d/1VlBV871Go6CpCMO0XJ-nq3Jm16O9RwQX/edit?usp=sharing&ouid=103552997294835590141&rtpof=true&sd=true
-
 Activities guideline: https://docs.google.com/document/d/1zlObDrkjBCFM8Ehm94nPDzSNwXcXYIVsR4hnKHvI9eQ/edit?usp=sharing
 
 ## License
