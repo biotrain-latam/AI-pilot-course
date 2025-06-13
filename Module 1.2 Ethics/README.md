@@ -47,18 +47,25 @@ d) Summarise steps to use AI responsibly
 ## Materials and tutorials
 
 Welcome and Introduction – Module Overview
+https://docs.google.com/presentation/d/1GrRKQgYxD_doi1OC3OIXdZ9LHJ6lwAiK/edit?slide=id.p1#slide=id.p1
 
 Mentimeter poll: Initial perceptions about AI
 
 Episode 1: Where is AI being used in biomedicine?
+https://docs.google.com/presentation/d/1PHCmFkPByrbDJP97AhxgQWfynsb_Kk48/edit?slide=id.p1#slide=id.p1
 
 Episode 2: Ethical challenges in the 21st Century
+https://docs.google.com/presentation/d/1X0QYVtDr9j0NMP0lWvmbnBbNJ6GeepdS/edit?slide=id.p1#slide=id.p1
 
 Episode 3: Minimising the environmental impact of AI (keynote talk, pre-recording)
+https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=cab186e8-c7e1-4773-9935-b2fb00b433af
 
 Episode 4: The BRAIn game: ethics applied to real-life use cases (Slides; participant notebook)
+https://docs.google.com/presentation/d/1Ei71vuKL5aiGad41jsR9IdmCI2iYBCqH/edit?slide=id.p1#slide=id.p1
+https://docs.google.com/presentation/d/1mGKKJbU4c7kodrJb42Tp7dIXztZpMCMa/edit?usp=drive_web&ouid=104294000601634828859&rtpof=true
 
 Episode 5: What is responsible AI?
+https://docs.google.com/presentation/d/14pp-X7KQCafrwZ4qwYjW5aJPrs8MX2iM/edit?slide=id.p21#slide=id.p21
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
