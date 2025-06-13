@@ -4,38 +4,61 @@
 
 ### Pilot Course: June 16-20, 2025 - San José, Costa Rica
 
-## Module #: Name
+## Module #1.2: Responsible use of AI
 
-xxxxxxxxxxxxxxxx
+This module explores the ethical challenges, social impacts, and regulatory issues surrounding the development and use of Artificial Intelligence (AI).
+It aims to promote critical reflection on how AI technologies are designed, implemented, and governed across different contexts, with special attention to issues of fairness, transparency, accountability, privacy, and social justice.
+You will be introduced to real-world case studies, interdisciplinary debates, and national/international frameworks that guide responsible AI development.
 
 ### Collaborators
 
-Example: Carla Valeria Filippi, Facultad de Agronomia, Universidad de la República, Uruguay
+Cath Brooksbank, Head of Training, EMBL’s European Bioinformatics Institute, UK
 
-Jose Arturo Molina Mora - University of Costa Rica, Co-Investigator, lead for LATAM, Costa Rica
+Alex Bateman, Senior Team Leader, Protein Sequence Resources, EMBL’s European Bioinformatics Institute, UK
 
-xxx
+Helder Nakaya, Principal Investigator, Computational System Biology Laboratory, Universidade de São Paulo, Brazil
+
+Mallory Freeberg, Human Genomics Team Leader, EMBL’s European Bioinformatics Institute, UK
+
+Georgia Renne, Interim Senior Ethics Officer, European Molecular Biology Laboratory, Germany
+
+Lucia von Bredow, Ethics Lead, Bioethics, Services, European Molecular Biology Laboratory, Germany
+
+
 
 ### Secondee
 
-xxxxx
+Maria Fernanda Ribeiro Dias, Professora visitante do PPGMCF da Universidade Federal do Rio de Janeiro, Brazil
 
 ## Learning outcomes
 By the end of this course, participants will be able to: ERASE OTHER OUTCOMES NOT CORRESPONDING TO YOUR MODULE
 
 1. Identify appropriate AI concepts and techniques, ethical aspects, and general usability of AI in bioscience. 
 
-2. Preprocess and analyze biological datasets using clustering algorithms, including regional databases (LATAM).
-    
-3. Build and evaluate classification models to address biological questions in the LATAM context.
-    
-4. Apply deep learning models, including tools such as AlphaFold, to analyze complex biological research problems.
-    
-5. Deliver AI contents with best teaching/learning practices in biological research.
+
+Specific to this module:
+
+a) Summarise the key ethical concepts and principles applied to AI systems
+b) Apply those concepts to specific examples of AI use in the life sciences
+c) Identify potential risks, biases, and societal consequences of AI technologies
+d) Summarise steps to use AI responsibly
+
    
 ## Materials and tutorials
 
-LINKS 
+Welcome and Introduction – Module Overview
+
+Mentimeter poll: Initial perceptions about AI
+
+Episode 1: Where is AI being used in biomedicine?
+
+Episode 2: Ethical challenges in the 21st Century
+
+Episode 3: Minimising the environmental impact of AI (keynote talk, pre-recording)
+
+Episode 4: The BRAIn game: ethics applied to real-life use cases (Slides; participant notebook)
+
+Episode 5: What is responsible AI?
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
