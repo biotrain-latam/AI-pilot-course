@@ -10,9 +10,9 @@
 
 Cath BrooksBank, EMBL-EBI, Principal Investigator
 
-Carla Valeria Filippi, Faculty of Agronomy, University of the Republic, Uruguay
+Carla Valeria Filippi, Facultad de Agronomía, Universidad de la República, Uruguay
 
-María Inés Fariello, Faculty of Engineering, University of the Republic
+María Inés Fariello, Facultad de Ingeniería, Universidad de la República, Uruguay
 
 Rebeca Campos, Faculty of Microbiology, Co-investigator, University of Costa Rica, Costa Rica 
 
@@ -21,7 +21,7 @@ Rebeca Campos, Faculty of Microbiology, Co-investigator, University of Costa Ric
 Daniel Céspedes Tenorio, Faculty of Myrobiology, University of Costa Rica, Costa Rica
 
 ## Learning outcomes
-By the end of this course, participants will be able to: ERASE OTHER OUTCOMES NOT CORRESPONDING TO YOUR MODULE
+By the end of this course, participants will be able to: 
     
 1. Deliver AI contents with best teaching/learning practices in biological research.
    
