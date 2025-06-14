@@ -27,6 +27,8 @@ By the end of this course, participants will be able to:
 
 ## Materials and tutorials
 
+[General introduction: BiotrAIn project](https://docs.google.com/presentation/d/1rsc6-OCrkApznHZojNTVDbPXLvPiCCAF/edit?usp=sharing&ouid=110468160338765017952&rtpof=true&sd=true)
+
 Supervised vs Unsupervided Game: https://colab.research.google.com/drive/10nmRI3clXHAZTjmMEUPkAk6t31aT1dAT?usp=sharing
 
 Presentations:
