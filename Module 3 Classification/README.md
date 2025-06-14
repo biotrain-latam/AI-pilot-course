@@ -26,6 +26,8 @@ By the end of this course, participants will be able to:
 
 [Fundamentals of Basic Algorithms in Classification](https://drive.google.com/file/d/1KIK-0VRibBvr6YY34KStMmU7taCUO30Y/view?usp=sharing)
 
+[Application: GO classification-BiotrAIn](https://drive.google.com/file/d/1EgslU6WwD6yTjCgEnCinKIYfx4L4SP3X/view?usp=sharing)
+
 ### Pipelines
 [Tutorial in R: Concepts of classification](https://colab.research.google.com/drive/1_jbMf1k8sOaavtGWsDnUYiVK89kPcrHe?usp=sharing)
 
