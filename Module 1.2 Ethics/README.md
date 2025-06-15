@@ -31,7 +31,7 @@ Lucia von Bredow, Ethics Lead, Bioethics, Services, European Molecular Biology L
 Maria Fernanda Ribeiro Dias, Professora visitante do PPGMCF da Universidade Federal do Rio de Janeiro, Brazil
 
 ## Learning outcomes
-By the end of this course, participants will be able to: ERASE OTHER OUTCOMES NOT CORRESPONDING TO YOUR MODULE
+By the end of this course, participants will be able to: 
 
 1. Identify appropriate AI concepts and techniques, ethical aspects, and general usability of AI in bioscience. 
 
