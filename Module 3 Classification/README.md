@@ -38,7 +38,7 @@ By the end of this course, participants will be able to:
 
 ### Pipelines
 
-[Tutorial in R: Concepts of classification - STUDENTS](https://colab.research.google.com/drive/1ag2pKsiFr9cEhu4AdL5MmZ5wiJ_Q6MAW?usp=sharing)
+[Tutorial in R: Concepts of classification - PARTICIPANTS](https://colab.research.google.com/drive/1ag2pKsiFr9cEhu4AdL5MmZ5wiJ_Q6MAW?usp=sharing)
 
 [Tutorial in R: Concepts of classification](https://colab.research.google.com/drive/1_jbMf1k8sOaavtGWsDnUYiVK89kPcrHe?usp=sharing)
 
