@@ -48,9 +48,11 @@ By the end of this course, participants will be able to:
 
 [Application 1: GO classification](https://colab.research.google.com/drive/1t4UZeBoU9joe_Q70lRPX4WyPGf2zj8H_#scrollTo=JnPNlsMNrJks)
 
+* [Publication: Consistent prediction of GO protein localization](https://www.nature.com/articles/s41598-018-26041-z)
+
 [Application 2: Prostate cancer patients classification](https://colab.research.google.com/drive/1xvEx4HmTgY17qLDxTlPuqmf7LDvAAuS1?usp=sharing)
 
-[Publication: Consistent prediction of GO protein localization](https://www.nature.com/articles/s41598-018-26041-z)
+
 
 ### Assessment
 [Assessment - Classification](https://forms.gle/8Y4fvSJk7XnPErgS7)
