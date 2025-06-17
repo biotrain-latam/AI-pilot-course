@@ -1,0 +1,802 @@
+x1,x2,label,cluster
+10.59312,6.9977226,Animal proximal gut,7
+10.263365,6.8848424,Animal proximal gut,7
+10.390027,6.939295,Animal proximal gut,7
+10.39495,6.9728575,Animal proximal gut,7
+10.3205595,6.968401,Animal proximal gut,7
+10.366065,6.9340186,Animal proximal gut,7
+10.377027,6.9181757,Animal proximal gut,7
+10.357985,6.928282,Animal proximal gut,7
+10.209573,6.8751817,Animal proximal gut,7
+9.193156,12.283096,Sediment (non-saline),8
+9.156002,12.307138,Sediment (non-saline),8
+9.16047,12.253571,Sediment (non-saline),8
+8.789263,12.78631,Sediment (non-saline),8
+8.7476,12.841605,Sediment (non-saline),8
+12.270566,6.0003195,Sediment (non-saline),7
+9.120666,12.373275,Sediment (non-saline),8
+9.112617,12.375264,Sediment (non-saline),8
+8.978964,12.552284,Sediment (non-saline),8
+8.852139,12.719923,Sediment (non-saline),8
+8.779133,12.802911,Sediment (non-saline),8
+8.742691,12.847046,Sediment (non-saline),8
+9.117054,12.373337,Sediment (non-saline),8
+9.053582,12.452616,Sediment (non-saline),8
+11.313695,10.000879,Sediment (non-saline),1
+8.928465,12.616214,Sediment (non-saline),8
+9.017552,12.502283,Sediment (non-saline),8
+8.68932,12.903483,Sediment (non-saline),8
+8.684222,12.908971,Sediment (non-saline),8
+8.675119,12.91976,Sediment (non-saline),8
+9.593045,10.154341,Plant surface,1
+9.598521,10.27055,Plant surface,1
+9.600379,10.306257,Plant surface,1
+9.681186,10.203484,Plant surface,1
+9.602126,10.117292,Plant surface,1
+9.555815,9.948926,Plant surface,1
+9.77071,10.273885,Plant surface,1
+9.599055,10.3018465,Plant surface,1
+9.675989,10.201332,Plant surface,1
+9.557559,9.89146,Plant surface,1
+9.595042,9.934824,Plant surface,1
+9.572705,9.890854,Plant surface,1
+9.605685,10.310387,Plant surface,1
+9.551164,9.91949,Plant surface,1
+9.264317,3.6293695,Plant surface,3
+9.402282,1.2962142,Sediment (saline),6
+9.372628,1.277975,Sediment (saline),6
+9.37086,1.2939216,Sediment (saline),6
+9.510892,1.3051572,Sediment (saline),6
+9.092887,1.3968215,Sediment (saline),6
+8.993573,1.3412416,Sediment (saline),6
+9.030367,1.360133,Sediment (saline),6
+8.956528,1.3941072,Sediment (saline),6
+9.429114,1.2853972,Sediment (saline),6
+12.769965,1.6005156,Sediment (saline),9
+8.97541,1.3154906,Sediment (saline),6
+9.003948,1.3521514,Sediment (saline),6
+9.0466385,1.3647522,Sediment (saline),6
+9.401845,1.257489,Sediment (saline),6
+9.3119135,1.3029112,Sediment (saline),6
+8.9764,1.3364041,Sediment (saline),6
+12.154947,5.9317007,Animal corpus,7
+12.776155,2.446778,Animal corpus,9
+12.7815,2.462587,Animal corpus,9
+12.760046,2.3809893,Animal corpus,9
+12.734023,2.4756353,Animal corpus,9
+12.775307,2.3899665,Animal corpus,9
+9.724128,1.2034979,Animal proximal gut,6
+9.670424,1.271503,Animal proximal gut,6
+9.705,1.2364823,Animal proximal gut,6
+12.709673,2.6041443,Animal corpus,9
+9.455795,1.4828281,Animal proximal gut,6
+9.490235,1.5177401,Animal proximal gut,6
+9.441504,1.518552,Animal proximal gut,6
+10.440433,4.681212,Surface (saline),12
+9.748937,1.2000501,Surface (saline),6
+12.974888,6.0204077,Animal distal gut,7
+13.057994,6.044102,Animal distal gut,7
+13.082411,6.022056,Animal distal gut,7
+12.964595,6.0953383,Animal distal gut,7
+12.954281,6.003379,Animal distal gut,7
+9.267181,3.6763349,Animal distal gut,3
+13.056305,5.9662294,Animal distal gut,7
+13.04607,6.0854373,Animal distal gut,7
+13.281677,6.3103476,Animal distal gut,7
+13.233907,6.2741413,Animal distal gut,7
+13.117906,6.253806,Animal distal gut,7
+12.992724,6.03493,Animal distal gut,7
+14.306362,0.49748927,Sediment (saline),2
+12.757247,1.6068044,Sediment (saline),9
+14.406781,0.39246687,Sediment (saline),2
+14.354172,0.47916225,Sediment (saline),2
+12.760175,1.6327013,Sediment (saline),9
+14.274798,0.54858,Sediment (saline),2
+14.217617,0.64346004,Sediment (saline),2
+14.121942,0.775819,Sediment (saline),2
+14.139173,0.76443636,Sediment (saline),2
+14.15941,0.7567179,Sediment (saline),2
+14.144588,0.76821935,Sediment (saline),2
+14.426043,0.34536645,Sediment (saline),2
+14.417265,0.37502357,Sediment (saline),2
+12.749501,1.6120862,Sediment (saline),9
+14.497422,0.35464483,Sediment (saline),2
+14.415037,0.31121156,Sediment (saline),2
+14.298911,0.529993,Sediment (saline),2
+14.283833,0.58314025,Sediment (saline),2
+14.123007,0.6891722,Sediment (saline),2
+10.9635315,9.837669,Soil (non-saline),1
+9.960446,10.539027,Soil (non-saline),1
+10.997109,9.918697,Soil (non-saline),1
+9.88143,10.592894,Soil (non-saline),1
+11.215976,10.200939,Soil (non-saline),1
+9.911241,10.580706,Soil (non-saline),1
+11.311317,10.035465,Soil (non-saline),1
+11.362759,10.05743,Soil (non-saline),1
+11.324002,10.145912,Soil (non-saline),1
+10.943411,10.035613,Soil (non-saline),1
+11.2315035,10.063978,Soil (non-saline),1
+10.973472,9.951604,Soil (non-saline),1
+11.127681,10.04791,Soil (non-saline),1
+10.980804,10.044672,Soil (non-saline),1
+11.104017,10.037084,Soil (non-saline),1
+9.89272,10.5480585,Soil (non-saline),1
+12.220159,6.0618453,Soil (non-saline),7
+9.892106,10.530046,Soil (non-saline),1
+12.291168,6.019836,Soil (non-saline),7
+9.9011135,10.541904,Soil (non-saline),1
+9.875254,10.527447,Soil (non-saline),1
+13.887982,10.757045,Soil (non-saline),10
+14.027284,10.70062,Soil (non-saline),10
+13.96839,10.676628,Soil (non-saline),10
+13.96452,10.739241,Soil (non-saline),10
+14.091212,10.663852,Soil (non-saline),10
+13.938915,10.742733,Soil (non-saline),10
+7.636742,10.036431,Soil (non-saline),0
+13.954324,10.743257,Soil (non-saline),10
+13.999238,10.701497,Soil (non-saline),10
+13.948395,10.787526,Soil (non-saline),10
+14.030036,10.694227,Soil (non-saline),10
+14.058735,10.703424,Soil (non-saline),10
+9.375996,-0.9275918,Soil (non-saline),6
+12.70224,-0.48358175,Soil (non-saline),5
+13.044851,8.817983,Soil (non-saline),4
+13.575172,7.4392643,Soil (non-saline),4
+13.612557,7.482539,Soil (non-saline),4
+13.573601,7.4330735,Soil (non-saline),4
+13.589765,7.4615355,Soil (non-saline),4
+13.627955,7.49044,Soil (non-saline),4
+13.5566435,7.4570003,Soil (non-saline),4
+13.608764,7.4878783,Soil (non-saline),4
+12.617395,6.584933,Soil (non-saline),7
+10.818198,6.813513,Soil (non-saline),7
+10.506359,6.856654,Soil (non-saline),7
+12.515958,0.7858602,Soil (non-saline),5
+10.890395,6.6149716,Soil (non-saline),7
+11.690514,6.072261,Soil (non-saline),7
+9.1700325,10.03564,Soil (non-saline),0
+10.841059,6.670339,Soil (non-saline),7
+12.316918,6.1139374,Soil (non-saline),7
+12.510895,9.610811,Sediment (non-saline),4
+12.178967,9.66693,Sediment (non-saline),4
+12.500976,9.6547165,Sediment (non-saline),4
+12.448173,9.595028,Sediment (non-saline),4
+12.410287,9.715191,Sediment (non-saline),4
+12.450709,9.55758,Sediment (non-saline),4
+12.424577,9.643017,Sediment (non-saline),4
+12.207598,5.9903274,Sediment (non-saline),7
+9.270639,12.073267,Sediment (non-saline),8
+9.276456,12.038911,Sediment (non-saline),8
+12.1238,9.71693,Sediment (non-saline),4
+12.107172,9.690189,Sediment (non-saline),4
+12.112582,9.715003,Sediment (non-saline),4
+12.108175,9.730406,Sediment (non-saline),4
+12.044008,9.656091,Sediment (non-saline),4
+12.065923,9.707326,Sediment (non-saline),4
+12.058023,9.715151,Sediment (non-saline),4
+11.301969,4.1660376,Water (non-saline),13
+11.312002,4.176305,Water (non-saline),13
+11.331057,4.195324,Water (non-saline),13
+11.303046,4.1672134,Water (non-saline),13
+11.268765,4.132924,Water (non-saline),13
+11.3080635,4.172066,Water (non-saline),13
+11.291245,4.155386,Water (non-saline),13
+11.534555,8.110492,Water (non-saline),7
+11.481994,8.134127,Water (non-saline),7
+11.524342,8.114393,Water (non-saline),7
+-0.7479324,9.500751,Water (non-saline),11
+-0.75647134,9.509245,Water (non-saline),11
+-0.7326063,9.4854555,Water (non-saline),11
+-0.72695166,9.480587,Water (non-saline),11
+-0.7148658,9.467705,Water (non-saline),11
+-0.7477771,9.500532,Water (non-saline),11
+-0.7466722,9.499447,Water (non-saline),11
+11.705996,10.200094,Soil (non-saline),1
+13.628425,7.529981,Soil (non-saline),4
+14.087514,9.074567,Soil (non-saline),4
+14.405738,9.105218,Soil (non-saline),4
+11.002987,10.88987,Soil (non-saline),1
+10.968545,10.862984,Soil (non-saline),1
+14.377066,9.119932,Soil (non-saline),4
+14.426994,9.103283,Soil (non-saline),4
+14.000789,10.594276,Soil (non-saline),10
+13.998058,10.504493,Soil (non-saline),10
+13.992036,9.265398,Soil (non-saline),4
+14.009708,9.381657,Soil (non-saline),4
+10.809175,7.783652,Soil (non-saline),7
+13.648414,7.5525923,Soil (non-saline),4
+14.007682,9.090735,Animal corpus,4
+14.278784,9.123822,Animal corpus,4
+14.094706,9.249238,Animal corpus,4
+12.168399,6.911179,Animal distal gut,7
+12.020525,7.757121,Animal distal gut,7
+12.164917,6.9759974,Animal distal gut,7
+12.261085,6.2614846,Animal distal gut,7
+12.053866,7.426748,Animal distal gut,7
+12.280549,6.2544622,Animal distal gut,7
+10.063699,9.278074,Animal distal gut,0
+10.010813,9.326639,Animal distal gut,0
+9.169693,8.9655695,Animal distal gut,0
+10.07292,9.189246,Animal distal gut,0
+9.900019,9.230195,Animal distal gut,0
+9.607052,9.058859,Animal distal gut,0
+9.642427,9.060032,Animal distal gut,0
+9.304229,8.949363,Animal distal gut,0
+9.650782,8.99343,Animal distal gut,0
+9.380536,9.087115,Animal distal gut,0
+12.05409,7.37017,Animal distal gut,7
+12.192041,5.9150453,Animal distal gut,7
+7.947187,9.850372,Animal distal gut,0
+7.747699,9.953706,Animal distal gut,0
+9.404987,-0.8844588,Animal distal gut,6
+7.6567736,10.046966,Animal distal gut,0
+10.395813,9.213809,Animal distal gut,0
+8.3982,9.448676,Animal distal gut,0
+7.686918,10.02543,Animal distal gut,0
+7.6294136,10.012099,Animal distal gut,0
+8.458544,9.431958,Animal distal gut,0
+9.716317,9.533746,Animal distal gut,0
+8.374281,9.498275,Animal distal gut,0
+9.735403,9.115037,Animal distal gut,0
+9.367703,9.820274,Animal distal gut,0
+9.1899,8.928889,Animal distal gut,0
+9.72972,9.270044,Animal distal gut,0
+9.958985,9.615252,Animal distal gut,0
+10.052943,9.285644,Animal distal gut,0
+9.725006,9.011371,Animal distal gut,0
+10.265916,9.188572,Animal distal gut,0
+9.834082,9.443286,Animal distal gut,0
+8.91138,9.139201,Animal distal gut,0
+7.8580236,9.932924,Animal distal gut,0
+9.318981,9.432939,Animal distal gut,0
+9.22884,10.007911,Animal distal gut,0
+9.222112,8.948632,Animal distal gut,0
+10.032671,9.280356,Animal distal gut,0
+8.252053,9.854939,Animal distal gut,0
+8.359178,9.681438,Animal distal gut,0
+8.410869,9.594798,Animal distal gut,0
+7.956154,9.90612,Animal distal gut,0
+8.197148,9.827855,Animal distal gut,0
+10.405532,9.223512,Animal distal gut,0
+9.9732275,9.577735,Animal distal gut,0
+9.679061,9.185559,Animal distal gut,0
+10.0718155,9.254301,Animal distal gut,0
+9.769615,9.342623,Animal distal gut,0
+9.597762,9.668233,Animal distal gut,0
+9.713366,9.155142,Animal distal gut,0
+7.8815594,9.893716,Animal distal gut,0
+9.956417,9.415588,Animal distal gut,0
+9.747368,8.835848,Animal distal gut,0
+10.117442,9.356864,Animal distal gut,0
+9.923506,9.368227,Animal distal gut,0
+9.413569,9.707427,Animal distal gut,0
+9.430952,9.807281,Animal distal gut,0
+9.70318,8.962759,Animal distal gut,0
+9.33925,8.912375,Animal distal gut,0
+9.402898,8.955597,Animal distal gut,0
+9.899971,9.546025,Animal distal gut,0
+9.443811,9.045076,Animal distal gut,0
+9.2852955,9.74042,Animal distal gut,0
+7.600769,10.07224,Animal distal gut,0
+12.5982685,0.56166756,Animal distal gut,5
+9.95786,9.39909,Animal distal gut,0
+7.643658,10.01765,Animal distal gut,0
+8.485757,9.704381,Animal distal gut,0
+7.633627,10.049611,Animal distal gut,0
+8.4612465,9.472551,Animal distal gut,0
+9.626007,9.027289,Animal distal gut,0
+9.073491,9.0202,Animal distal gut,0
+8.759533,9.290877,Animal distal gut,0
+9.464453,9.134732,Animal distal gut,0
+9.171163,8.952054,Animal distal gut,0
+9.103349,9.662797,Animal distal gut,0
+9.131482,8.9898815,Animal distal gut,0
+8.123112,9.781681,Animal distal gut,0
+10.304884,9.173394,Animal distal gut,0
+8.151297,9.896152,Animal distal gut,0
+8.447785,9.414331,Animal distal gut,0
+8.402401,9.5094385,Animal distal gut,0
+10.4035,9.232913,Animal distal gut,0
+10.420508,9.222482,Animal distal gut,0
+8.801269,9.342911,Animal distal gut,0
+8.753162,9.363739,Animal distal gut,0
+7.7541037,9.93961,Animal distal gut,0
+10.378616,9.221228,Animal distal gut,0
+9.2498045,9.7017765,Animal distal gut,0
+7.9058204,9.878457,Animal distal gut,0
+8.335926,9.567919,Animal distal gut,0
+9.459089,9.785857,Animal distal gut,0
+9.458747,9.028677,Animal distal gut,0
+9.491811,9.173004,Animal distal gut,0
+8.071857,9.832029,Animal distal gut,0
+7.9745135,9.940798,Animal distal gut,0
+8.323509,9.770708,Animal distal gut,0
+9.516743,9.03435,Animal distal gut,0
+10.001918,9.583789,Animal distal gut,0
+9.955982,9.641427,Animal distal gut,0
+9.737399,9.758408,Animal distal gut,0
+8.347462,9.496391,Animal distal gut,0
+10.041329,9.487701,Animal distal gut,0
+10.024454,9.47255,Animal distal gut,0
+9.944253,9.356745,Animal distal gut,0
+9.332014,8.9769125,Animal distal gut,0
+10.386555,9.191714,Animal distal gut,0
+9.167063,8.946434,Animal distal gut,0
+9.888331,9.678972,Animal distal gut,0
+10.058698,9.527438,Animal distal gut,0
+12.536275,11.597168,Soil (non-saline),10
+12.471955,11.611386,Soil (non-saline),10
+12.535735,11.642032,Soil (non-saline),10
+12.39284,11.580098,Soil (non-saline),10
+12.4036455,11.695088,Soil (non-saline),10
+12.499124,11.6124525,Soil (non-saline),10
+12.883532,11.5185585,Soil (non-saline),10
+12.676872,11.3228655,Soil (non-saline),10
+12.728012,11.508147,Soil (non-saline),10
+12.923998,11.695584,Soil (non-saline),10
+12.945943,11.70768,Soil (non-saline),10
+12.857524,11.683185,Soil (non-saline),10
+12.995034,11.502454,Soil (non-saline),10
+12.919898,11.56977,Soil (non-saline),10
+12.932488,11.465779,Soil (non-saline),10
+12.890542,11.58791,Soil (non-saline),10
+13.608139,10.909148,Soil (non-saline),10
+12.629519,11.112416,Soil (non-saline),10
+12.476609,11.588103,Soil (non-saline),10
+13.820425,10.88156,Soil (non-saline),10
+13.741074,10.80498,Soil (non-saline),10
+13.776595,10.662262,Soil (non-saline),10
+12.808713,10.847758,Soil (non-saline),10
+13.8096,10.660715,Soil (non-saline),10
+14.088851,10.652769,Soil (non-saline),10
+12.922477,11.653053,Soil (non-saline),10
+13.165667,10.987179,Soil (non-saline),10
+13.618709,10.949568,Soil (non-saline),10
+13.032093,11.345309,Soil (non-saline),10
+10.849011,5.315004,Soil (non-saline),7
+12.623897,11.544626,Soil (non-saline),10
+12.752883,9.348229,Soil (non-saline),4
+12.853755,11.6687765,Soil (non-saline),10
+13.590553,10.9203825,Soil (non-saline),10
+12.657921,-0.06723098,Water (saline),5
+12.630786,-0.11365035,Water (saline),5
+12.618313,0.013832325,Water (saline),5
+12.616925,0.12927748,Water (saline),5
+12.665377,-0.280247,Water (saline),5
+12.684774,-0.43197793,Water (saline),5
+12.698101,-0.4741041,Water (saline),5
+12.660866,-0.42236423,Water (saline),5
+12.704724,-0.5029935,Water (saline),5
+12.727606,-0.51970875,Water (saline),5
+12.683453,-0.45635724,Water (saline),5
+12.660459,0.13970621,Water (saline),5
+12.640719,-0.13516387,Water (saline),5
+10.86149,1.8384382,Water (saline),5
+12.645265,-0.1497688,Water (saline),5
+12.649524,-0.1629064,Water (saline),5
+12.563169,0.5277441,Water (saline),5
+12.561301,0.4700209,Water (saline),5
+12.60683,0.47085422,Water (saline),5
+12.574059,0.37076694,Water (saline),5
+10.544558,8.043208,Plant corpus,1
+10.409084,8.086147,Plant corpus,1
+10.505147,7.875764,Plant corpus,1
+10.435504,7.9433827,Plant corpus,1
+10.462688,7.9128623,Plant corpus,1
+10.558273,8.029059,Plant corpus,1
+10.503323,8.124322,Plant corpus,1
+12.772847,1.5846996,Plant corpus,9
+11.180702,7.869951,Plant corpus,7
+11.183288,8.490194,Plant corpus,1
+10.478282,8.089401,Plant corpus,1
+10.466266,8.048808,Plant corpus,1
+11.139444,7.8067756,Plant corpus,7
+11.211981,8.408013,Plant corpus,1
+10.445067,7.972794,Plant corpus,1
+10.45746,8.129919,Plant corpus,1
+10.867556,8.0618,Plant corpus,1
+11.198329,8.447623,Plant corpus,1
+10.575338,8.19614,Plant corpus,1
+12.686037,2.6226127,Plant corpus,9
+10.582732,8.227199,Plant corpus,1
+10.592354,8.21314,Plant corpus,1
+12.685867,2.638092,Plant corpus,9
+10.655902,8.288337,Plant corpus,1
+11.0613365,8.660258,Plant corpus,1
+10.599541,8.195999,Plant corpus,1
+12.719279,2.5903664,Plant corpus,9
+10.452712,8.142266,Plant corpus,1
+13.195698,8.92113,Soil (non-saline),4
+13.136862,8.45514,Soil (non-saline),4
+13.143527,8.43873,Soil (non-saline),4
+13.1522875,8.534778,Soil (non-saline),4
+13.207653,9.056902,Soil (non-saline),4
+13.243619,9.007285,Soil (non-saline),4
+13.194127,9.033839,Soil (non-saline),4
+13.212623,9.0007515,Soil (non-saline),4
+9.373628,-0.9333254,Water (non-saline),6
+10.399745,4.630722,Sediment (saline),12
+10.464212,4.7123575,Sediment (saline),12
+10.369198,4.616301,Sediment (saline),12
+10.401394,4.638859,Sediment (saline),12
+10.478337,4.729671,Sediment (saline),12
+10.216081,4.4905324,Sediment (saline),12
+10.519809,4.7729683,Sediment (saline),12
+12.00472,5.4038663,Sediment (saline),7
+14.396006,9.135623,Sediment (saline),4
+10.242797,4.4946346,Sediment (saline),12
+10.296385,4.5626974,Sediment (saline),12
+10.40449,4.6599097,Sediment (saline),12
+10.182488,4.468708,Sediment (saline),12
+10.311358,4.556198,Sediment (saline),12
+9.3626795,3.7398171,Sediment (saline),3
+10.222153,4.503118,Sediment (saline),12
+9.255827,9.975291,Sediment (saline),0
+9.298967,3.6681325,Sediment (saline),3
+10.387803,4.637485,Sediment (saline),12
+10.489787,4.7897353,Sediment (saline),12
+10.968458,5.3664384,Sediment (saline),7
+10.995241,5.2992964,Sediment (saline),7
+12.015525,5.7437925,Sediment (saline),7
+12.038311,5.6993303,Sediment (saline),7
+10.423099,8.110578,Sediment (saline),1
+10.427295,8.079644,Sediment (saline),1
+11.020507,5.2969947,Sediment (saline),7
+8.202865,5.4097695,Surface (saline),12
+10.046856,4.4257874,Sediment (saline),12
+14.487378,0.2249226,Surface (saline),2
+8.266871,5.646036,Soil (non-saline),12
+8.313783,5.6614046,Soil (non-saline),12
+8.133406,5.588527,Soil (non-saline),12
+8.136997,5.514899,Soil (non-saline),12
+11.635176,6.08685,Soil (non-saline),7
+8.188337,5.486078,Soil (non-saline),12
+8.476269,5.351555,Soil (non-saline),12
+8.5225725,5.3504243,Soil (non-saline),12
+8.354649,5.5930576,Soil (non-saline),12
+8.301516,5.5738955,Soil (non-saline),12
+8.298791,5.68073,Soil (non-saline),12
+8.309946,5.6915483,Soil (non-saline),12
+8.135435,5.5182924,Soil (non-saline),12
+8.252826,5.596764,Soil (non-saline),12
+8.137974,5.655838,Soil (non-saline),12
+8.140853,5.5385604,Soil (non-saline),12
+8.207911,5.459778,Soil (non-saline),12
+8.106162,5.3527627,Soil (non-saline),12
+8.124554,5.400691,Soil (non-saline),12
+8.126885,5.3485093,Soil (non-saline),12
+8.558749,5.2889285,Soil (non-saline),12
+11.698921,6.1075125,Soil (non-saline),7
+8.510676,5.3349595,Soil (non-saline),12
+8.480406,5.3194313,Soil (non-saline),12
+12.743565,2.087614,Animal proximal gut,9
+12.691311,1.2697289,Animal proximal gut,9
+12.683345,1.2584385,Animal proximal gut,9
+12.752858,2.1995606,Animal proximal gut,9
+12.260442,6.062579,Animal proximal gut,7
+12.759722,1.1636399,Animal proximal gut,9
+12.470232,5.542983,Animal proximal gut,7
+12.753979,2.170588,Animal proximal gut,9
+12.4282,1.0273639,Animal proximal gut,9
+12.675514,1.396945,Animal proximal gut,9
+11.230875,7.6752687,Animal proximal gut,7
+13.434362,6.2959504,Animal proximal gut,7
+13.468929,6.3265843,Animal proximal gut,7
+13.49608,6.3572874,Animal proximal gut,7
+13.445529,6.3145003,Animal proximal gut,7
+12.491036,9.64004,Soil (non-saline),4
+12.457454,9.60108,Soil (non-saline),4
+12.434448,9.612154,Soil (non-saline),4
+12.478422,9.582149,Soil (non-saline),4
+12.469512,9.597756,Soil (non-saline),4
+12.360642,6.188147,Soil (non-saline),7
+12.444558,9.654841,Soil (non-saline),4
+9.056147,4.338495,Soil (non-saline),3
+10.950992,6.6371484,Soil (non-saline),7
+12.345688,6.1122904,Soil (non-saline),7
+12.584391,9.497652,Soil (non-saline),4
+13.191033,9.253207,Soil (non-saline),4
+12.465203,9.623342,Soil (non-saline),4
+13.1831455,9.127619,Soil (non-saline),4
+12.561426,9.527078,Soil (non-saline),4
+12.546611,9.539996,Soil (non-saline),4
+13.611112,7.5997562,Soil (non-saline),4
+12.297962,6.2266088,Soil (non-saline),7
+12.555817,9.530215,Soil (non-saline),4
+13.121078,9.131798,Soil (non-saline),4
+12.536312,9.542749,Soil (non-saline),4
+13.117553,9.118283,Soil (non-saline),4
+13.082173,9.1886835,Soil (non-saline),4
+13.128075,9.157173,Soil (non-saline),4
+13.038989,9.145592,Soil (non-saline),4
+13.028502,9.206694,Soil (non-saline),4
+12.108232,10.12226,Soil (non-saline),10
+12.1056795,10.113082,Soil (non-saline),10
+11.86218,10.236718,Soil (non-saline),1
+11.972351,10.138454,Soil (non-saline),10
+10.845969,6.6629586,Soil (non-saline),7
+12.060447,10.086183,Soil (non-saline),10
+12.132051,10.085845,Soil (non-saline),10
+12.192575,10.036007,Soil (non-saline),10
+11.635972,10.158256,Soil (non-saline),1
+11.746941,10.186819,Soil (non-saline),1
+11.68379,10.231407,Soil (non-saline),1
+12.117871,10.134807,Soil (non-saline),10
+11.842,10.239449,Soil (non-saline),1
+12.021295,10.197395,Soil (non-saline),10
+11.099965,10.328386,Soil (non-saline),1
+11.34043,10.956169,Soil (non-saline),1
+11.3742485,10.280575,Soil (non-saline),1
+11.453283,10.260937,Soil (non-saline),1
+12.850799,1.5116665,Soil (non-saline),9
+11.342109,10.2414,Soil (non-saline),1
+11.503269,10.185708,Soil (non-saline),1
+12.703309,10.740901,Soil (non-saline),10
+11.291748,10.273134,Soil (non-saline),1
+11.247798,10.303239,Soil (non-saline),1
+14.577573,-0.33041227,Plant surface,2
+14.531069,-0.28677616,Plant surface,2
+14.571676,-0.31469092,Plant surface,2
+14.573721,-0.32033494,Plant surface,2
+14.659061,-0.39402053,Plant surface,2
+14.60111,-0.3694608,Plant surface,2
+14.6341915,-0.3841199,Plant surface,2
+14.557296,-0.32027897,Plant surface,2
+12.936369,6.442942,Animal distal gut,7
+11.758446,6.142473,Animal distal gut,7
+12.575661,5.672359,Animal distal gut,7
+13.006569,6.5187263,Animal distal gut,7
+12.040964,5.7464557,Animal distal gut,7
+9.910257,9.37085,Animal distal gut,0
+12.445039,6.2121367,Animal distal gut,7
+12.650275,5.708297,Animal distal gut,7
+11.825585,6.1115794,Animal distal gut,7
+11.964221,6.04304,Animal distal gut,7
+11.237921,8.345295,Animal distal gut,1
+11.833695,6.0868444,Animal distal gut,7
+11.79127,6.154388,Animal distal gut,7
+11.172548,7.75036,Animal distal gut,7
+12.129955,5.519118,Animal distal gut,7
+12.085588,5.534522,Animal distal gut,7
+12.641193,5.7858815,Animal distal gut,7
+12.544912,5.6642194,Animal distal gut,7
+12.100295,5.454515,Animal distal gut,7
+11.984642,5.888113,Animal distal gut,7
+12.264204,6.182617,Animal distal gut,7
+13.224792,6.192442,Animal distal gut,7
+11.930898,6.1273913,Animal distal gut,7
+12.728496,6.0297313,Animal distal gut,7
+11.952837,6.111778,Animal distal gut,7
+11.943938,6.125971,Animal distal gut,7
+11.960744,6.1054306,Animal distal gut,7
+12.008702,6.098728,Animal distal gut,7
+11.958695,6.1155567,Animal distal gut,7
+13.063516,8.760736,Animal distal gut,4
+10.705127,7.3864903,Animal distal gut,7
+11.860696,6.1476183,Animal distal gut,7
+11.220827,7.674364,Animal distal gut,7
+11.036024,7.7639422,Animal distal gut,7
+11.201733,7.7074823,Animal distal gut,7
+12.555416,5.6695952,Animal distal gut,7
+11.072586,7.72892,Animal distal gut,7
+12.026262,6.6341867,Animal distal gut,7
+12.524932,5.620884,Animal distal gut,7
+11.142059,7.6993055,Animal distal gut,7
+12.292742,6.094553,Animal distal gut,7
+13.51364,6.3688006,Animal distal gut,7
+12.532462,5.7992067,Animal distal gut,7
+12.064233,5.8157887,Animal distal gut,7
+12.416939,6.1548305,Animal distal gut,7
+12.186933,6.007325,Animal distal gut,7
+12.039964,6.5281954,Animal distal gut,7
+10.149691,9.445093,Animal distal gut,0
+10.664784,7.9159493,Animal distal gut,1
+12.258346,6.1019363,Animal distal gut,7
+9.404258,-0.9431779,Animal distal gut,6
+12.077423,6.377994,Animal distal gut,7
+12.185056,5.870099,Animal distal gut,7
+12.141483,5.7879496,Animal distal gut,7
+9.350104,13.120882,Soil (non-saline),8
+9.37273,13.158764,Soil (non-saline),8
+9.32986,13.089029,Soil (non-saline),8
+9.283497,13.012106,Soil (non-saline),8
+9.150571,10.180393,Soil (non-saline),0
+9.3637295,13.137095,Soil (non-saline),8
+9.355555,13.123076,Soil (non-saline),8
+9.264165,12.970662,Soil (non-saline),8
+9.365382,13.131905,Soil (non-saline),8
+9.43529,13.205937,Soil (non-saline),8
+9.222941,12.900035,Soil (non-saline),8
+9.203069,12.853219,Soil (non-saline),8
+9.237286,12.918816,Soil (non-saline),8
+9.321836,13.091224,Soil (non-saline),8
+9.321677,13.090039,Soil (non-saline),8
+11.680138,6.1680946,Sediment (non-saline),7
+12.190319,9.674197,Sediment (non-saline),4
+12.191136,9.6080885,Sediment (non-saline),4
+12.17834,9.668952,Sediment (non-saline),4
+12.225404,9.63935,Sediment (non-saline),4
+12.208338,9.659984,Sediment (non-saline),4
+12.237558,9.627657,Sediment (non-saline),4
+12.206173,9.646231,Sediment (non-saline),4
+12.173127,9.695026,Sediment (non-saline),4
+11.717338,6.119993,Sediment (non-saline),7
+10.785934,10.876063,Soil (non-saline),1
+10.66693,10.670539,Soil (non-saline),1
+10.656216,10.66671,Soil (non-saline),1
+10.825731,10.924269,Soil (non-saline),1
+10.828595,10.88014,Soil (non-saline),1
+10.841588,10.860556,Soil (non-saline),1
+10.841376,10.779232,Soil (non-saline),1
+10.628007,10.596857,Soil (non-saline),1
+10.66978,10.630205,Soil (non-saline),1
+10.673661,10.551262,Soil (non-saline),1
+10.787356,10.810009,Soil (non-saline),1
+10.815638,10.883517,Soil (non-saline),1
+10.899966,10.850271,Soil (non-saline),1
+10.694858,10.619256,Soil (non-saline),1
+10.636829,10.642082,Soil (non-saline),1
+10.648605,10.657206,Soil (non-saline),1
+10.784693,10.721048,Soil (non-saline),1
+10.934188,10.845116,Soil (non-saline),1
+10.829078,1.8707097,Water (saline),5
+10.883562,1.8162761,Water (saline),5
+10.815344,1.8842875,Water (saline),5
+10.858122,1.841488,Water (saline),5
+10.9109335,1.7891197,Water (saline),5
+10.909737,1.7901965,Water (saline),5
+12.681035,0.06853485,Water (saline),5
+10.818277,1.8813184,Water (saline),5
+12.692382,0.6568026,Water (saline),5
+12.70042,0.6785372,Water (saline),5
+12.707044,0.6876109,Water (saline),5
+12.509075,0.6376339,Water (saline),5
+12.597248,0.67212504,Water (saline),5
+12.517848,0.7201015,Water (saline),5
+12.5739,0.41372076,Water (saline),5
+12.629085,0.51911473,Water (saline),5
+12.6355095,0.6015844,Water (saline),5
+14.164159,0.66531837,Sediment (saline),2
+14.122038,0.5688801,Sediment (saline),2
+14.155246,0.6297508,Sediment (saline),2
+8.007031,2.9989479,Animal corpus,3
+7.984221,2.9951768,Animal corpus,3
+7.992934,2.9914715,Animal corpus,3
+7.988922,2.9873135,Animal corpus,3
+12.594798,0.7863238,Animal corpus,9
+12.586222,0.83661693,Animal corpus,9
+12.608432,0.7971336,Animal corpus,9
+11.909894,0.036574632,Animal corpus,9
+11.826126,0.007670355,Animal corpus,9
+11.915428,0.089457355,Animal corpus,9
+11.909958,0.042821176,Animal corpus,9
+9.057052,4.3043,Animal corpus,3
+9.041934,4.3434086,Animal corpus,3
+8.998628,4.1821427,Animal corpus,3
+9.075178,4.36189,Animal corpus,3
+9.310219,3.7519207,Animal corpus,3
+9.280055,3.6348238,Animal corpus,3
+9.267761,3.6203825,Animal corpus,3
+9.334809,3.6961176,Animal corpus,3
+9.217879,3.6663027,Animal corpus,3
+12.003319,0.27149588,Animal corpus,9
+12.034026,0.3148029,Animal corpus,9
+12.04666,0.27288866,Animal corpus,9
+12.005465,0.17464432,Animal corpus,9
+12.026137,0.23744398,Animal corpus,9
+9.274438,-1.0178292,Animal corpus,6
+9.415109,-0.90994376,Animal corpus,6
+9.388047,-0.9084483,Animal corpus,6
+9.375784,-0.90907186,Animal corpus,6
+9.280859,-0.85134774,Animal corpus,6
+8.012638,2.9994473,Animal corpus,3
+12.299149,5.989156,Animal corpus,7
+7.9919596,2.9938776,Animal corpus,3
+10.487948,9.159319,Animal corpus,0
+12.627432,0.8337317,Animal corpus,9
+12.668783,0.91518635,Animal corpus,9
+12.693887,0.9452439,Animal corpus,9
+12.704711,-0.74313235,Animal corpus,9
+12.636819,-0.667804,Animal corpus,9
+12.744871,-0.7841853,Animal corpus,9
+12.677079,-0.7382096,Animal corpus,9
+14.438206,9.13559,Animal corpus,4
+9.040157,4.267535,Animal corpus,3
+9.015991,4.061931,Animal corpus,3
+9.062912,4.346072,Animal corpus,3
+9.090794,3.565493,Animal corpus,3
+9.112347,3.5442173,Animal corpus,3
+9.2489195,3.6157577,Animal corpus,3
+9.241699,3.6178684,Animal corpus,3
+12.289089,0.51416427,Animal corpus,9
+12.1525,0.3564641,Animal corpus,9
+12.170873,0.40955207,Animal corpus,9
+12.039939,0.17240342,Animal corpus,9
+9.360048,-0.9471631,Animal corpus,6
+9.361231,-0.9084023,Animal corpus,6
+9.347577,-0.9114718,Animal corpus,6
+9.447225,-0.8769444,Animal corpus,6
+15.56791,-0.8239379,Plant surface,2
+15.756133,-1.0539666,Plant surface,2
+15.698375,-0.81883115,Plant surface,2
+15.605335,-0.75753486,Plant surface,2
+15.649954,-0.99904287,Plant surface,2
+11.1684475,-2.0001016,Plant surface,6
+11.181428,-1.9927726,Plant surface,6
+11.288205,-1.9061054,Plant surface,6
+11.248347,-1.9484477,Plant surface,6
+11.204255,-1.9797175,Plant surface,6
+11.174373,-2.0037622,Plant surface,6
+11.194648,-1.9573004,Plant surface,6
+11.2003145,-1.9681947,Plant surface,6
+11.202389,-1.9645942,Plant surface,6
+11.328132,-1.8736806,Plant surface,6
+11.293336,-1.906713,Plant surface,6
+11.297414,-1.9046527,Plant surface,6
+15.676508,-0.82467705,Plant surface,2
+13.171827,6.376628,Plant surface,7
+15.532061,-0.87661076,Plant surface,2
+15.538388,-0.8025427,Plant surface,2
+15.741188,-1.011968,Plant surface,2
+15.648507,-1.0938302,Plant surface,2
+15.74576,-0.8271848,Plant surface,2
+15.734369,-0.7902768,Plant surface,2
+15.78159,-0.7684242,Plant surface,2
+15.720925,-0.8221662,Plant surface,2
+15.531252,-0.9017923,Plant surface,2
+15.684088,-0.808938,Plant surface,2
+15.598728,-1.0076355,Plant surface,2
+15.707091,-0.94538224,Plant surface,2
+15.61428,-0.88282794,Plant surface,2
+15.723222,-0.7597406,Plant surface,2
+15.803992,-0.84841365,Plant surface,2
+12.574824,0.44911602,Subsurface (non-saline),5
+12.561764,5.5670342,Subsurface (non-saline),7
+7.9675345,2.966065,Subsurface (non-saline),3
+10.86006,5.5740776,Subsurface (non-saline),7
+9.146714,3.5819485,Subsurface (non-saline),3
+10.9007225,5.518873,Subsurface (non-saline),7
+10.891282,6.6199994,Subsurface (non-saline),7
+10.25629,6.89264,Subsurface (non-saline),7
+11.569468,6.2244487,Subsurface (non-saline),7
+11.85154,6.0493827,Subsurface (non-saline),7
+10.966743,5.5370393,Water (non-saline),7
+10.969942,5.476191,Water (non-saline),7
+11.313077,5.6877685,Water (non-saline),7
+11.230017,5.59633,Water (non-saline),7
+11.743482,5.7845316,Water (non-saline),7
+10.80005,5.448422,Water (non-saline),7
+10.522358,8.714032,Fungus corpus,1
+10.561501,8.465588,Fungus corpus,1
+10.53871,8.702565,Fungus corpus,1
+10.542747,8.955922,Fungus corpus,1
+9.73704,10.269725,Fungus corpus,1
+10.461004,8.265366,Fungus corpus,1
+10.505252,8.192436,Fungus corpus,1
+10.48121,8.317764,Fungus corpus,1
+9.841464,10.493586,Fungus corpus,1
+10.53931,8.897912,Fungus corpus,1
+10.48777,8.44503,Fungus corpus,1
+10.583411,8.964969,Fungus corpus,1
+12.695761,-0.7278818,Animal secretion,9
+11.28109,4.145355,Animal secretion,13
+12.739938,-0.77101314,Animal secretion,9
+13.505915,1.0000968,Animal secretion,9
+13.503878,1.006134,Animal secretion,9
+13.496503,0.97621274,Animal secretion,9
+13.392532,0.9530547,Animal secretion,9
+13.385701,0.97281915,Animal secretion,9
+13.498002,1.0040104,Animal secretion,9
+12.785796,-0.7856735,Animal secretion,9
+12.752578,-0.78183687,Animal secretion,9
+12.767186,-0.7956864,Animal secretion,9
+12.056911,0.3025658,Animal secretion,9
+13.561494,1.0368739,Animal secretion,9
+12.235817,6.0192323,Animal secretion,7
+13.561205,1.032071,Animal secretion,9
+13.3291445,0.91990703,Animal secretion,9
+12.84545,1.4887736,Animal secretion,9
+13.36023,0.9574619,Animal secretion,9
+13.515063,1.0151248,Animal secretion,9
+11.945108,0.19819279,Water (saline),9
+12.635558,0.7323742,Water (saline),9
