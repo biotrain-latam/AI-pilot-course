@@ -37,6 +37,9 @@ By the end of this course, participants will be able to:
 [Application: GO classification-BiotrAIn](https://drive.google.com/file/d/1EgslU6WwD6yTjCgEnCinKIYfx4L4SP3X/view?usp=sharing)
 
 ### Pipelines
+
+[Tutorial in R: Concepts of classification - STUDENTS](https://colab.research.google.com/drive/1ag2pKsiFr9cEhu4AdL5MmZ5wiJ_Q6MAW?usp=sharing)
+
 [Tutorial in R: Concepts of classification](https://colab.research.google.com/drive/1_jbMf1k8sOaavtGWsDnUYiVK89kPcrHe?usp=sharing)
 
 * [Data Perturbome](https://github.com/biotrain-latam/BiotrAIn-pilot-course/blob/main/Module%203%20Classification/perturbome-data.csv)
