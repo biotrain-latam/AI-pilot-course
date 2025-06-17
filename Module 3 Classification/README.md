@@ -24,6 +24,9 @@ By the end of this course, participants will be able to:
 ### Theoretical classes and presentations
 [General Concepts in Classification](https://drive.google.com/file/d/1ODy8Hq2wa0Vs2zEBiM95SlUUgXI6oNdj/view?usp=sharing)
 
+[Demo-data](Module 3 Classification/Demo-classification.zip)
+
+
 [Fundamentals of Basic Algorithms in Classification](https://drive.google.com/file/d/1KIK-0VRibBvr6YY34KStMmU7taCUO30Y/view?usp=sharing)
 
 [Application: GO classification-BiotrAIn](https://drive.google.com/file/d/1EgslU6WwD6yTjCgEnCinKIYfx4L4SP3X/view?usp=sharing)
