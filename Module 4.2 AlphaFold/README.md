@@ -40,6 +40,8 @@ Then, to obtain a license, go to [https://pymol.org/edu/](https://pymol.org/edu/
 Run PyMOL and follow the instructions to load the license.
 Then complete the tutorial at [https://pymolwiki.org/index.php/Biochemistry\_student\_intro](https://pymolwiki.org/index.php/Biochemistry_student_intro) to become familiar with PyMOL. Follow the instructions up to the section titled **“The Faster Way.”**
 
+**Practice folder** https://drive.google.com/drive/folders/1qIkLzQP4-NXZelJawpysr9VlBqpQhVKS?usp=drive_link
+
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
