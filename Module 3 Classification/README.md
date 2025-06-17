@@ -24,7 +24,9 @@ By the end of this course, participants will be able to:
 ### Theoretical classes and presentations
 [General Concepts in Classification](https://drive.google.com/file/d/1ODy8Hq2wa0Vs2zEBiM95SlUUgXI6oNdj/view?usp=sharing)
 
-[Module 3 Classification/Demo-classification.zip](https://github.com/biotrain-latam/BiotrAIn-pilot-course/blob/main/Module%203%20Classification/Demo-classification.zip)
+[Demo-classification.zip](https://github.com/biotrain-latam/BiotrAIn-pilot-course/blob/main/Module%203%20Classification/Demo-classification.zip)
+
+https://teachablemachine.withgoogle.com/train  ![image](https://github.com/user-attachments/assets/93ddfedf-638d-44b5-8f40-90f0fadd925a)
 
 
 [Fundamentals of Basic Algorithms in Classification](https://drive.google.com/file/d/1KIK-0VRibBvr6YY34KStMmU7taCUO30Y/view?usp=sharing)
