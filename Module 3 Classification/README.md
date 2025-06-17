@@ -38,6 +38,8 @@ By the end of this course, participants will be able to:
 
 ### Pipelines
 
+[All-datasets](https://github.com/biotrain-latam/BiotrAIn-pilot-course/blob/main/Module%203%20Classification/Classification-alldata.zip)
+
 [Tutorial in R: Concepts of classification - PARTICIPANTS](https://colab.research.google.com/drive/1ag2pKsiFr9cEhu4AdL5MmZ5wiJ_Q6MAW?usp=sharing)
 
 [Tutorial in R: Concepts of classification](https://colab.research.google.com/drive/1_jbMf1k8sOaavtGWsDnUYiVK89kPcrHe?usp=sharing)
