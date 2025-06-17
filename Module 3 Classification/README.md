@@ -48,7 +48,7 @@ By the end of this course, participants will be able to:
 
 [Application 1: GO classification](https://colab.research.google.com/drive/1t4UZeBoU9joe_Q70lRPX4WyPGf2zj8H_#scrollTo=JnPNlsMNrJks)
 
-* [Tutorial in R: GO Classification](https://github.com/biotrain-latam/BiotrAIn-pilot-course/blob/main/Module%203%20Classification/GO_classification_BiotrAIn.html)
+* [Tutorial in R: GO Classification](https://www.cifasis-conicet.gov.ar/bioinformatica/fgga/GO_classification_BiotrAIn.html)
 * [Data-GO](https://github.com/biotrain-latam/BiotrAIn-pilot-course/blob/main/Module%203%20Classification/dxFeatures_GOs_Hm.csv)
 * [Publication: Consistent prediction of GO protein localization](https://www.nature.com/articles/s41598-018-26041-z)
 
