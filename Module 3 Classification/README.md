@@ -39,7 +39,7 @@ By the end of this course, participants will be able to:
 ### Pipelines
 [Tutorial in R: Concepts of classification](https://colab.research.google.com/drive/1_jbMf1k8sOaavtGWsDnUYiVK89kPcrHe?usp=sharing)
 
-* [Data Perturbome](https://drive.google.com/file/d/1ROFekE1afPBZwy0g5Kkci--EZlxouGXF/view?usp=sharing](https://github.com/biotrain-latam/BiotrAIn-pilot-course/blob/main/Module%203%20Classification/perturbome-data.csv)
+* [Data Perturbome](https://github.com/biotrain-latam/BiotrAIn-pilot-course/blob/main/Module%203%20Classification/perturbome-data.csv)
 
 [Publication: A first perturbome of Pseudomonas aeruginosa: Identification of core genes related to multiple perturbations by a machine learning approach](https://www.sciencedirect.com/science/article/pii/S0303264721000666?via%3Dihub)
 
