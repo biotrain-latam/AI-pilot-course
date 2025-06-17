@@ -28,6 +28,10 @@ By the end of this course, participants will be able to:
 
 * [TeachableMachine App](https://teachablemachine.withgoogle.com/train)
 
+* [Demo-LandingLens](https://github.com/biotrain-latam/BiotrAIn-pilot-course/blob/main/Module%203%20Classification/Data-LandindLens.zip)
+
+* [LandingLens App](https://app.landing.ai/app/95253393852424/home)
+
 [Fundamentals of Basic Algorithms in Classification](https://drive.google.com/file/d/1KIK-0VRibBvr6YY34KStMmU7taCUO30Y/view?usp=sharing)
 
 [Application: GO classification-BiotrAIn](https://drive.google.com/file/d/1EgslU6WwD6yTjCgEnCinKIYfx4L4SP3X/view?usp=sharing)
