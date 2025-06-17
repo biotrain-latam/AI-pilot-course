@@ -31,11 +31,11 @@ By the end of this course, participants will be able to:
 
    
 ## Materials and tutorials
-[*Introduction slides*](https://alumnosudgmx-my.sharepoint.com/:p:/g/personal/mdaniel_rodriguez_alumnos_udg_mx/EQBFxQ_0L-JOj1Stv0fETC4B0DeyK3SBsutzGvMWpla1KA?e=4loJ0I):Establish a foundational understanding of Deep Learning, including its place within the broader field of Artificial Intelligence, the main learning paradigms, and widely-used development frameworks.
+[*Introduction slides*](https://docs.google.com/presentation/d/1A1bt5OBo7YuX_YoV4ORMC7DKHngJTi9D/edit?usp=drive_link&ouid=104913466615748184475&rtpof=true&sd=true):Establish a foundational understanding of Deep Learning, including its place within the broader field of Artificial Intelligence, the main learning paradigms, and widely-used development frameworks.
 <br>
-[*How Deep Learning works slides*](https://alumnosudgmx-my.sharepoint.com/:p:/g/personal/mdaniel_rodriguez_alumnos_udg_mx/EW1FUyUdfQ5AhWh8rILmP8IBt4a6IinKXuE-hZfeXXnQpA?e=Nyzjc9):Explain how deep learning models function, including key components of training, optimization, evaluation, and common challenges.
+[*How Deep Learning works slides*](https://docs.google.com/presentation/d/1aMxVvYJRQghqzJCXnw0vXT686iXuGzXc/edit?usp=drive_link&ouid=104913466615748184475&rtpof=true&sd=true):Explain how deep learning models function, including key components of training, optimization, evaluation, and common challenges.
 <br>
-[*Deep Learning architectures*](https://alumnosudgmx-my.sharepoint.com/:p:/g/personal/mdaniel_rodriguez_alumnos_udg_mx/EYgsqv_vnfVOpjP9dkPqZbEBO9lhXiohe3fUz3OInIZylA?e=Bexfea):Introduce key neural network architectures used in biology, highlighting when and how to use each type.
+[*Deep Learning architectures*](https://docs.google.com/presentation/d/14JGC3XWpLIB23Ww6tjk_vm2C0EWST3xX/edit?usp=drive_link&ouid=104913466615748184475&rtpof=true&sd=true):Introduce key neural network architectures used in biology, highlighting when and how to use each type.
 <br>
 [*Case 1:*](https://colab.research.google.com/drive/1m3dITTWmBAjJtKwxn04C4ZyKcNzRGr0P?usp=sharing): build and train a neural network to predict the solubility of chemical compounds
 using molecular descriptors from the ESOL dataset.
