@@ -39,6 +39,8 @@ By the end of this course, participants will be able to:
 ### Pipelines
 [Tutorial in R: Concepts of classification](https://colab.research.google.com/drive/1_jbMf1k8sOaavtGWsDnUYiVK89kPcrHe?usp=sharing)
 
+* [Data Perturbome](https://drive.google.com/file/d/1ROFekE1afPBZwy0g5Kkci--EZlxouGXF/view?usp=sharing)
+
 [Publication: A first perturbome of Pseudomonas aeruginosa: Identification of core genes related to multiple perturbations by a machine learning approach](https://www.sciencedirect.com/science/article/pii/S0303264721000666?via%3Dihub)
 
 [Application 1: GO classification](https://colab.research.google.com/drive/1t4UZeBoU9joe_Q70lRPX4WyPGf2zj8H_#scrollTo=JnPNlsMNrJks)
