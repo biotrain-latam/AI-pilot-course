@@ -54,7 +54,7 @@ By the end of this course, participants will be able to:
 * [Data-GO](https://github.com/biotrain-latam/BiotrAIn-pilot-course/blob/main/Module%203%20Classification/dxFeatures_GOs_Hm.csv)
 * [Publication: Consistent prediction of GO protein localization](https://www.nature.com/articles/s41598-018-26041-z)
 
-[Application 2: Prostate cancer patients classification](https://colab.research.google.com/drive/1xvEx4HmTgY17qLDxTlPuqmf7LDvAAuS1?usp=sharing)
+[Application 2: Prostate cancer patients classification](https://colab.research.google.com/drive/1_qYTIDEbb_JYw-p_zSBZh7LoKQOWHxFR?usp=sharing)
 
 
 
