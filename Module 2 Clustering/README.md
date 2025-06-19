@@ -33,6 +33,7 @@ Preprocess and analyze biological datasets using clustering algorithms, includin
 [Notebook 4 Clustering](https://colab.research.google.com/drive/13zN7xrSM-dsF6IutkHL30bIG6kyVYsDl)     
 [Notebook 5 Clustering evaluation](https://colab.research.google.com/drive/1o_XvTKWHgP15kvFhxeOvOj5rcQp0pW7U)   
 [Notebook 6 Other datasets](https://colab.research.google.com/drive/1tvQkMGaGtaPnfAOL0R7osTLyP260ZX4z)   
+[Notebook 7 Clustering cancer data (solved)](https://colab.research.google.com/drive/1001_A_Rr1P3B8z96cOzQ6v96GL9URkRh?usp=sharing)
 
 
 ## Other material
